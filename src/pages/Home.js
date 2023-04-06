@@ -1,14 +1,16 @@
 import React from "react";
-import AboutUs from "../components/home/AboutUs";
-import HeroSection from "../components/home/HeroSection";
-import ServicePlan from "../components/home/ServicePlan";
+// import AboutUs from "../components/home/AboutUs";
+// import HeroSection from "../components/home/HeroSection";
+// import ServicePlan from "../components/home/ServicePlan";
+import PaymentMethod from "../components/home/PaymentMethod";
 
 const Home = () => {
   return (
     <div>
-      <HeroSection />
+      {/* <HeroSection />
       <ServicePlan />
-      <AboutUs />
+      <AboutUs /> */}
+      <PaymentMethod />
     </div>
   );
 };
