@@ -4,12 +4,12 @@ import posSystem from "../../assets/image/pos-system.png";
 
 const PosSystem = () => {
   return (
-    <div className="px-6 md:px-8 py-12 md:py-16">
+    <div className="px-6 md:px-8 md:py-12 md:py-16">
       <div className="grid md:flex pos-container items-center justify-around md:gap-x-6 space-y-12">
         <div className="flex justify-center order-last md:order-first">
           <img src={posSystem} alt="Payment method system" />
         </div>
-        <div className="space-y-4 md:max-w-md pb-12 md:pb-0">
+        <div className="space-y-4 md:max-w-md pb-12  md:pb-0">
           <h2 className="max-w-sm text-[24px] md:text-[28px] lg:text-[35px] font-medium leading-1 text-[#12141D]">
             Keep the power of POS in your pocket
           </h2>
