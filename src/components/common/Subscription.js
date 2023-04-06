@@ -6,7 +6,7 @@ const Subscription = () => {
       <div className="text-center py-8 md:py-12 text-white space-y-10 max-w-2xl mx-auto">
         <div className="space-y-2">
           <h2 className="text-[24px] md:text-[28px]">
-            Square POS is a great option for businesses
+            Square POS is a great businesses
           </h2>
           <p className="text-[16px] md:text-[18px]">
             A business uses a POS system to process card payments or other forms

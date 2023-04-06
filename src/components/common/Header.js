@@ -1,14 +1,11 @@
 import React from "react";
+import logo from "../../assets/image/logo.png";
 
 const Header = () => {
   return (
-    <div className="absolute w-full flex justify-between items-center px-6 md:px-12">
+    <div className="absolute w-full flex justify-between items-center pt-6 px-6 md:px-12">
       <div className="w-[100px] h-auto">
-        <img
-          className="w-full h-full"
-          src="https://epos.com/wp-content/uploads/2020/04/epos250x250_v1.png"
-          alt=""
-        />
+        <img className="w-full h-full" src={logo} alt="Logo" />
       </div>
       <div className="flex gap-x-4">
         <button className="py-2 px-8 text-[14px] bg-[#e4f5ef] rounded-full">
