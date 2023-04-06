@@ -11,9 +11,9 @@ const Header = () => {
         <button className="py-2 px-8 text-[14px] bg-[#e4f5ef] rounded-full">
           Login
         </button>
-        <button className="py-2 px-5 text-[14px] bg-[#5c5fff] hover:bg-opacity-80 rounded-full text-white">
+        {/* <button className="py-2 px-5 text-[14px] bg-[#5c5fff] hover:bg-opacity-80 rounded-full text-white">
           Get Started
-        </button>
+        </button> */}
       </div>
     </div>
   );
