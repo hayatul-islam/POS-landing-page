@@ -2,7 +2,7 @@ import React from "react";
 
 const PosVideo = () => {
   return (
-    <div className="md:pb-12 px-6">
+    <div className="md:pb-10 px-6">
       <div className="pos-container py-12 mb-12">
         <iframe
           class="w-full h-[300px] md:h-[400px] lg:h-[500px] rounded-md"
