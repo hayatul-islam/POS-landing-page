@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "../components/common/Header";
-import Home from "./Home";
+import Subscription from "../components/common/Subscription";
 
 const TheLayout = () => {
   return (
     <div>
-      <Header />
-      <Home />
+      {/* <Header />
+      <Home /> */}
+      <Subscription />
     </div>
   );
 };
