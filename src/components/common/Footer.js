@@ -8,7 +8,7 @@ import logo from "../../assets/image/logo.png";
 
 const Footer = () => {
   return (
-    <div className="bg-[#226cd0] py-6 px-6 rounded-b-[20px] md:rounded-b-[40px]">
+    <div className="bg-[#226cd0] py-6 px-6 rounded-b-[10px] ">
       <div className="pos-container grid md:grid-cols-3 gap-y-6 py-6">
         <div className="space-y-4">
           <div className="space-y-2">
