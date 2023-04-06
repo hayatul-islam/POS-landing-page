@@ -13,7 +13,7 @@ const Subscription = () => {
             of electronic payments at a physical location
           </p>
         </div>
-        <button className="py-2 w-[200px] text-[14px] border border-white rounded-full text-white">
+        <button className="py-2 w-[200px] text-[14px] border border-white rounded-full text-white hover:bg-white hover:text-[#2d7de9]">
           Subscription
         </button>
       </div>

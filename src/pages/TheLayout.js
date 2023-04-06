@@ -6,12 +6,12 @@ import Home from "./Home";
 
 const TheLayout = () => {
   return (
-    <div>
+    <>
       <Header />
       <Home />
       <Subscription />
       <Footer />
-    </div>
+    </>
   );
 };
 
